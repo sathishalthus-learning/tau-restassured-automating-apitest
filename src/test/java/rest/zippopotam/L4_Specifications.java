@@ -42,6 +42,7 @@ public class L4_Specifications {
 				.build();
 	}
 	
+	@SuppressWarnings("deprecation")
 	@Test
 	public void requestResponseAndExtract() {
 		
